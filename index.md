@@ -1,3 +1,19 @@
+
+# Marie's First CS 193 Homework!
+
+
+
+# list of my favorite things about CS193
+
+- the TA's
+- my new friend
+- once a week
+
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -10,17 +26,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
-
-# Marie's First CS 193 Homework!
-
-
-
-# list of my favorite things about CS193
-
-- the TA's
-- my new friend
-- once a week
-
 1. Numbered
 2. List
 
